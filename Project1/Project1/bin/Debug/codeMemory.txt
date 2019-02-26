@@ -1,0 +1,7 @@
+Address:0000 --  Value :0000
+Address:0001 --  Value :0000
+Address:0010 --  Value :0000
+Address:0011 --  Value :01010110
+Address:0100 --  Value :01000111
+Address:0101 --  Value :0010
+Address:0110 --  Value :1001

@@ -1,0 +1,27 @@
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\bin\Debug\Project1.pdb
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\obj\Debug\Project1.Form1.resources
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\obj\Debug\Project1.exe
+c:\users\buğra\documents\visual studio 2012\Projects\Project1\Project1\obj\Debug\Project1.pdb
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\bin\Debug\Project1.exe.config
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\obj\Debug\Project1.exe
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\obj\Debug\Project1.pdb
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\bin\Debug\Project1.exe
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\bin\Debug\Project1.pdb
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\obj\Debug\Project1.Form1.resources
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+F:\LECTURES\SECOND YEAR-SPRING SEMESTER\PROJECT BASED LEARNING-IV\SECOND PROJECT\Proje\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\bin\Debug\Project1.exe.config
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\obj\Debug\Project1.exe
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\obj\Debug\Project1.pdb
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\bin\Debug\Project1.exe
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\bin\Debug\Project1.pdb
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\obj\Debug\Project1.Form1.resources
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+F:\Lectures\2. Year - 2. Semester (2013-2014)\Project Based Learning-IV\Second Project\Proje\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache

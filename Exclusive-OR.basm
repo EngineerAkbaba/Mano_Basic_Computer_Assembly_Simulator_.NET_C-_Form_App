@@ -1,0 +1,25 @@
+/logic exlusive-OR 
+/of two logic operands
+/X (xor) Y = (X'Y')'(XY)'
+/Source: www.oulu.fi/cse
+ORG C 1
+LDA X
+CMA
+STA TMP
+LDA Y
+CMA
+AND TMP /X'Y'
+CMA /(X'Y')'
+STA TMP
+LDA X
+AND Y /XY
+CMA /(XY)'
+AND TMP /(X'Y')'(XY)'
+STA RES /Save result
+HLT
+ORG D 2
+X, HEX 1
+Y, HEX 0
+TMP, HEX 0
+RES, HEX 0
+END

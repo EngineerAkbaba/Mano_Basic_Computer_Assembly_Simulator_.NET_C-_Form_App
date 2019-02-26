@@ -1,0 +1,13 @@
+ORG C 4
+LDA WD2 /Load WD2
+CMA /Complement
+INC /2's Complement
+ADD WD1 /Add WD1
+SZA
+STA RES
+HLT
+ORG D 0
+WD1, DEC 3
+WD2, DEC 2
+RES, DEC 0
+END

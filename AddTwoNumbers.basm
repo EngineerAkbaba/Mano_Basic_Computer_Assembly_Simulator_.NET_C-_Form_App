@@ -1,0 +1,10 @@
+ORG C 0 /Origin of code segment
+LDA A /Load operand from location A
+ADD B /Add operand from location B
+STA C /Store sum in location C
+HLT /Halt computer
+ORG D 0 /Origin of data segment
+A, DEC 5 /Decimal operand
+B, DEC -6 /Decimal operand
+C, DEC 0 /Sum stored in location C
+END /End of symbolic program
